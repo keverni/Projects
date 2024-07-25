@@ -1,0 +1,17 @@
+D:\Visual Studio\ParsingSeed\ParsingSeed\bin\Debug\selenium-manager\linux\selenium-manager
+D:\Visual Studio\ParsingSeed\ParsingSeed\bin\Debug\selenium-manager\macos\selenium-manager
+D:\Visual Studio\ParsingSeed\ParsingSeed\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\Visual Studio\ParsingSeed\ParsingSeed\bin\Debug\ParsingSeed.exe.config
+D:\Visual Studio\ParsingSeed\ParsingSeed\bin\Debug\ParsingSeed.exe
+D:\Visual Studio\ParsingSeed\ParsingSeed\bin\Debug\ParsingSeed.pdb
+D:\Visual Studio\ParsingSeed\ParsingSeed\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio\ParsingSeed\ParsingSeed\bin\Debug\WebDriver.dll
+D:\Visual Studio\ParsingSeed\ParsingSeed\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio\ParsingSeed\ParsingSeed\bin\Debug\WebDriver.xml
+D:\Visual Studio\ParsingSeed\ParsingSeed\obj\Debug\ParsingSeed.csproj.AssemblyReference.cache
+D:\Visual Studio\ParsingSeed\ParsingSeed\obj\Debug\ParsingSeed.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\ParsingSeed\ParsingSeed\obj\Debug\ParsingSeed.csproj.CoreCompileInputs.cache
+D:\Visual Studio\ParsingSeed\ParsingSeed\obj\Debug\ParsingSeed.csproj.CopyComplete
+D:\Visual Studio\ParsingSeed\ParsingSeed\obj\Debug\ParsingSeed.exe
+D:\Visual Studio\ParsingSeed\ParsingSeed\obj\Debug\ParsingSeed.pdb
+D:\Visual Studio\ParsingSeed\ParsingSeed\bin\Debug\OpenQA.Selenium.Chrome.ChromeDriverExtensions.dll

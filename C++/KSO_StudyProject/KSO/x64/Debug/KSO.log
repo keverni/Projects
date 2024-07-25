@@ -1,0 +1,4 @@
+﻿  KSO.cpp
+D:\Visual Studio\KSO\KSO\KSO.cpp(28,50): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+D:\Visual Studio\KSO\KSO\KSO.cpp(64,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  KSO.vcxproj -> D:\Visual Studio\KSO\x64\Debug\KSO.exe

@@ -1,0 +1,52 @@
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\x64\pdfium.dll
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\Алгоритм Электропотребление.exe.config
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\Алгоритм Электропотребление.exe.manifest
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\Алгоритм Электропотребление.application
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\Алгоритм Электропотребление.exe
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\Алгоритм Электропотребление.pdb
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\Aspose.Cells.dll
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\ExcelDataReader.DataSet.dll
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\ExcelDataReader.dll
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\PdfiumViewer.dll
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\ZedGraph.dll
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\Aspose.Cells.xml
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\ExcelDataReader.pdb
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\ExcelDataReader.xml
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\ExcelDataReader.DataSet.pdb
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\ExcelDataReader.DataSet.xml
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\PdfiumViewer.xml
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\ZedGraph.xml
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\nl\PdfiumViewer.resources.dll
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\de\ZedGraph.resources.dll
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\es\ZedGraph.resources.dll
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\fr\ZedGraph.resources.dll
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\hu\ZedGraph.resources.dll
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\it\ZedGraph.resources.dll
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\ja\ZedGraph.resources.dll
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\pt\ZedGraph.resources.dll
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\ru\ZedGraph.resources.dll
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\sk\ZedGraph.resources.dll
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\sv\ZedGraph.resources.dll
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\tr\ZedGraph.resources.dll
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\obj\Release\Алгоритм_Электропотребление.Form1.resources
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\obj\Release\Алгоритм_Электропотребление.Form2.resources
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\obj\Release\Алгоритм_Электропотребление.Form3.resources
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\obj\Release\Алгоритм_Электропотребление.Form4.resources
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\obj\Release\Алгоритм_Электропотребление.Form5.resources
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\obj\Release\Алгоритм_Электропотребление.Form6.resources
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\obj\Release\Алгоритм_Электропотребление.Form7.resources
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\obj\Release\Алгоритм_Электропотребление.Form8.resources
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\obj\Release\Алгоритм_Электропотребление.Properties.Resources.resources
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\obj\Release\Алгоритм Электропотребление.csproj.GenerateResource.cache
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\obj\Release\Алгоритм Электропотребление.csproj.CoreCompileInputs.cache
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\obj\Release\Алгоритм Электропотребление.exe.manifest
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\obj\Release\Алгоритм Электропотребление.application
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\obj\Release\Алгоритм Электропотребление.csproj.CopyComplete
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\obj\Release\Алгоритм Электропотребление.exe
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\obj\Release\Алгоритм Электропотребление.pdb
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\obj\Release\Алгоритм Электропотребление.csprojAssemblyReference.cache
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\PdfFiles\ВЛ-0,38 кВ ТП 1 Ф 106 ПС 1.pdf
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\PdfFiles\ВЛ-0,38 кВ ТП-2 Ф-106 ПС 1.pdf
+C:\Users\a9224\Desktop\Алгоритм Электропотребление\Алгоритм Электропотребление\bin\Release\PdfFiles\ВЛ-10 кВ  Ф-106 ПС  1.pdf

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParsingSeed", "ParsingSeed\ParsingSeed.csproj", "{12A370AF-B74D-4104-9EF0-02B7B5D20FCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12A370AF-B74D-4104-9EF0-02B7B5D20FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12A370AF-B74D-4104-9EF0-02B7B5D20FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12A370AF-B74D-4104-9EF0-02B7B5D20FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12A370AF-B74D-4104-9EF0-02B7B5D20FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AC34D1D-33F2-4CDE-BBDB-062D15C98ED5}
+	EndGlobalSection
+EndGlobal
