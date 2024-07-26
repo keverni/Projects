@@ -9,11 +9,11 @@ public:
 
 	bool AddProduct(std::string NameProduct);
 	bool RemoveProduct(std::string NameProduct);
-	std::vector<Product> GetCart();
+	std::list<Product> GetCart();
 	int GetPrice();
 
 private:
-	std::vector<Product> m_AllProduct;
+	std::list<Product> m_AllProduct;
 	ProductCart			 m_ProductCart;
 	double				 m_TotalPrice;
 };

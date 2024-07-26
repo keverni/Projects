@@ -1,5 +1,5 @@
 #pragma once
-#include <vector>
+#include <list>
 #include "Product.h"
 #include <iostream>
 #include <algorithm>
@@ -10,9 +10,9 @@ class ProductCart
 public:
 	void AddProduct(const Product& product);
 	bool RemoveProduct(const Product& product);
-	std::vector<Product> GetCart();
+	std::list<Product> GetCart();
 
 private:
-	std::vector<Product> m_ListOfProduct;
+	std::list<Product> m_ListOfProduct;
 };
 

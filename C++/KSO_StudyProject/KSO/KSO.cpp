@@ -53,7 +53,7 @@ bool KSO::RemoveProduct(std::string NameProduct) // сделать нормальное удаление 
 	return 0;
 	
 }
-std::vector<Product> KSO::GetCart()
+std::list<Product> KSO::GetCart()
 {
 	return m_ProductCart.GetCart();
 	

@@ -1,4 +1,8 @@
 ﻿  KSO.cpp
-D:\Visual Studio\KSO\KSO\KSO.cpp(28,50): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
-D:\Visual Studio\KSO\KSO\KSO.cpp(64,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
-  KSO.vcxproj -> D:\Visual Studio\KSO\x64\Debug\KSO.exe
+D:\Projects_Github\Projects\C++\KSO_StudyProject\KSO\KSO.cpp(28,50): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+D:\Projects_Github\Projects\C++\KSO_StudyProject\KSO\KSO.cpp(63,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  main.cpp
+  Product.cpp
+  ProductCart.cpp
+  Создание кода...
+  KSO.vcxproj -> D:\Projects_Github\Projects\C++\KSO_StudyProject\x64\Debug\KSO.exe

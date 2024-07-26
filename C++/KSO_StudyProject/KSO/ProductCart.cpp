@@ -18,7 +18,7 @@ bool ProductCart::RemoveProduct(const Product& product)
 	return 0;
 }
 
-std::vector<Product> ProductCart::GetCart()
+std::list<Product> ProductCart::GetCart()
 {
 	return m_ListOfProduct;
 }
