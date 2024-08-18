@@ -1,8 +1,3 @@
 ﻿  Проверка источников на наличие зависимостей модуля…
-  Product.cpp
-D:\Visual Studio\new_kso\new_kso\Product.cpp(10,6): error C2653: product: не является именем класса или пространства имен
-D:\Visual Studio\new_kso\new_kso\Product.cpp(10,39): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
-D:\Visual Studio\new_kso\new_kso\Product.cpp(10,39): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
-D:\Visual Studio\new_kso\new_kso\Product.cpp(11,1): error C2270: ==: модификаторы недопустимы для функций, не являющихся членами
-D:\Visual Studio\new_kso\new_kso\Product.cpp(12,9): error C2355: "this": может указываться только в нестатических членах-функциях или инициализаторах нестатических членов данных
-D:\Visual Studio\new_kso\new_kso\Product.cpp(12,31): error C2065: other: необъявленный идентификатор
+  KSO.cpp
+  new_kso.vcxproj -> D:\Visual Studio\KSO_StudyProject\x64\Debug\new_kso.exe

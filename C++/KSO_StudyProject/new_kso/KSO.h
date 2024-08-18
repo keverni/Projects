@@ -6,6 +6,8 @@
 
 class KSO
 {
+public:
+	KSO();
 
 public:
 	void AddProduct(const std::string& NameProduct);
@@ -14,7 +16,7 @@ public:
 	double GetPrice() const;
 
 private:
-	ProductData			 m_AllProduct;
+	Database			 m_AllProduct;
 	std::list<Product>   m_ProductCart;
 	double				 m_TotalPrice;
 };

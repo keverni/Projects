@@ -1,18 +1,21 @@
 #pragma once
 
 #include "Product.h"
+#include <unordered_map>
 
-#include <list>
-#include <string>
-
-class ProductData
+class Database
 {
 public:
-	ProductData();
+	void AddProduct(const Product& product);
+	void EditProduct(const Product& product);
 
-	const Product& GetProduct(const std::string& ProductName) const;
+	void RemoveProduct(const std::string& name);
+	Product GetProduct(const std::string& name);
 
 private:
-	std::list<Product> m_Product_Data;
-};
+	size_t Hash(const std::string& name);
 
+private:
+	std::unordered_map<size_t, Product> m_Products;
+
+};

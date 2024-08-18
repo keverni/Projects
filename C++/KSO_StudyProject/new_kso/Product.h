@@ -2,17 +2,19 @@
 
 #include <string>
 
-struct Product
+class Product
 {
-
 public:
-	Product(const std::string& name, int price);
+	Product();
+	Product(const std::string& name, double price);
+
+	std::string GetName() const;
+	double GetPrice() const;
+
+	bool IsValid() const;
 	bool operator==(const Product& other) const;
 
-public:
+private:
 	std::string m_Name;
-	int			m_Price;
-
-	size_t		m_Product_id;
+	double m_Price;
 };
-

@@ -34,7 +34,7 @@ int main()
 			{
 				kso.RemoveProduct(Product);
 			}
-			catch (const std::invalid_argument& ex)
+			catch (const std::exception& ex)
 			{
 				std::cout << ex.what() << std::endl;
 				continue;
@@ -44,10 +44,10 @@ int main()
 		else if (Command == 3)
 		{
 			auto ProductCart = kso.GetCart();
-			std::cout << "Name\tPrice\tWeight" << std::endl;
+			std::cout << "Name\tPrice" << std::endl;
 			for (auto el : ProductCart)
 			{
-				std::cout << el.m_Name << "\t" << el.m_Price << "\t" << std::endl;
+				std::cout << el.GetName() << "\t" << el.GetPrice()<< "\t" << std::endl;
 			}
 			std::cout << std::endl << "Total price: " << kso.GetPrice() << std::endl;
 

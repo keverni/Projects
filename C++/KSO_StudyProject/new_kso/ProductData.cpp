@@ -1,29 +1,65 @@
 #include "ProductData.h"
-
 #include <stdexcept>
-#include <algorithm>
 
-ProductData::ProductData()
+void Database::AddProduct(const Product& product)
 {
-	m_Product_Data = 
+	if (!product.IsValid())
 	{
-		Product("Apple", 10),
-		Product("Juice", 50),
-		Product("Chips", 120),
-		Product("Cola", 135),
-		Product("Bread", 40)
-	};
+		throw std::invalid_argument("Invalid product");
+	}
+
+	const auto hash = Hash(product.GetName());
+	if (m_Products.contains(hash))
+	{
+		throw std::runtime_error("Product already exist");
+	}
+
+	m_Products[hash] = product;
 }
 
-const Product& ProductData::GetProduct(const std::string& ProductName) const
+void Database::EditProduct(const Product& product)
 {
-	const auto Product_ID = std::hash<std::string>{}(ProductName);
-	auto find_product = std::find_if(std::begin(m_Product_Data), std::end(m_Product_Data), [&ProductName, &Product_ID](const Product& product) {
-		return product.m_Product_id == Product_ID;
-	});
-	if (find_product != std::end(m_Product_Data))
+	if (!product.IsValid())
 	{
-		return *find_product;
+		throw std::invalid_argument("Invalid product");
 	}
-	throw std::invalid_argument("Invalid product");
+
+	const auto hash = Hash(product.GetName());
+	if (!m_Products.contains(hash))
+	{
+		throw std::runtime_error("Product doesn't exist");
+	}
+
+	m_Products[hash] = product;
+}
+
+void Database::RemoveProduct(const std::string& name)
+{
+	if (name.empty())
+	{
+		throw std::invalid_argument("Invalid product");
+	}
+
+	m_Products.erase(Hash(name));
+}
+
+Product Database::GetProduct(const std::string& name)
+{
+	if (name.empty())
+	{
+		throw std::invalid_argument("Invalid name");
+	}
+
+	const auto hash = Hash(name);
+	if (!m_Products.contains(hash))
+	{
+		throw std::runtime_error("Product doesn't exist");
+	}
+
+	return m_Products[hash];
+}
+
+size_t Database::Hash(const std::string& name)
+{
+	return std::hash<std::string>{}(name);
 }

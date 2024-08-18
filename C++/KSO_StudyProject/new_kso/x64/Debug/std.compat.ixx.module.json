@@ -5,9 +5,9 @@
         {
             "primary-output": "x64\\Debug\\std.compat.ixx.obj",
             "outputs": [
-                "D:\\Visual Studio\\new_kso\\new_kso\\x64\\Debug\\vc143.pdb",
+                "D:\\Visual Studio\\KSO_StudyProject\\new_kso\\x64\\Debug\\vc143.pdb",
                 "x64\\Debug\\",
-                "D:\\Visual Studio\\new_kso\\new_kso\\x64\\Debug\\std.compat.ixx.ifc"
+                "D:\\Visual Studio\\KSO_StudyProject\\new_kso\\x64\\Debug\\std.compat.ixx.ifc"
             ],
             "provides": [
                 {
