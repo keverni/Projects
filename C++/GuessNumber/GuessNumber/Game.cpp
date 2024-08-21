@@ -3,22 +3,31 @@
 
 Game::Game(long int leftRange, long int rightRange)
 {
-	std::random_device rd;   // non-deterministic generator
-	std::mt19937 gen(rd());  // to seed mersenne twister.
+	std::random_device rd;
+	std::mt19937 gen(rd());
 	std::uniform_int_distribution<> dist(leftRange,rightRange);
 	
 	m_Number = dist(gen);
 }
 
-void Game::start(long int UserNumber)
+int Game::start(long int UserNumber)
 {
-	if (!RightNumber(UserNumber))
-	{
-		throw std::invalid_argument("Wrong number!");
-	}
+	return RightNumber(UserNumber);
 }
 
-bool Game::RightNumber(long int UserNum)
+int Game::RightNumber(long int UserNum)
 {
-	return m_Number == UserNum;
+	if (m_Number == UserNum)
+	{
+		return 0;
+	}
+	if (m_Number > UserNum)
+	{
+		return 1;
+	}
+	if (m_Number < UserNum)
+	{
+		return -1;
+	}
+	
 }

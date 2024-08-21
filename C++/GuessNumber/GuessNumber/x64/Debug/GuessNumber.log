@@ -1,3 +1,6 @@
 ﻿  Проверка источников на наличие зависимостей модуля…
+  Game.cpp
   mian.cpp
+  Создание кода...
+D:\Visual Studio\GuessNumber\GuessNumber\Game.cpp(33): warning C4715: Game::RightNumber: значение возвращается не при всех путях выполнения
   GuessNumber.vcxproj -> D:\Visual Studio\GuessNumber\x64\Debug\GuessNumber.exe

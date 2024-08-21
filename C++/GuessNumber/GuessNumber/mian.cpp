@@ -16,19 +16,22 @@ int main()
 	{
 		std::cout << "Enter number: ";
 		std::cin >> number;
-		
-		try
+
+		int ResultGame = game.start(number);
+		if (ResultGame == 0)
 		{
-			game.start(number);
+			std::cout << "You win! Congratulations!" << std::endl;
 			break;
 		}
-		catch (const std::invalid_argument& ex)
+		else if (ResultGame == 1)
 		{
-			std::cout << ex.what() << std::endl;
+			std::cout << "My number is higher!" << std::endl;
+		}
+		else if (ResultGame == -1)
+		{
+			std::cout << "My number is smaller!" << std::endl;
 		}
 	}
-
-	std::cout << "You win! Congratulations!" << std::endl;
 
 	return 0;
 }
